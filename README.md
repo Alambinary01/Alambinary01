@@ -1,11 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Haseeb Mushtaq</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16762086-Programmer-character-animation&psig=AOvVaw1qWp681lA6MGy1aCUyrrVB&ust=1667752869211000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIja0df6lvsCFQAAAAAdAAAAABAZ">
-
-
+ <img class="image" src="https://res.cloudinary.com/sharonnt/image/upload/v1528287118/Jane_Goodall.jpg" alt="Swimmer">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alambinary01&label=Profile%20views&color=0e75b6&style=flat" alt="alambinary01" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alambinary01" alt="alambinary01" /></a> </p>
 
 - 🔭 I’m currently working on [Library Management System](https://github.com/Alambinary01/Library-Management-System)
