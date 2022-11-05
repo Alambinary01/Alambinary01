@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Haseeb Mushtaq</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
- <img class="image" src="[https://res.cloudinary.com/sharonnt/image/upload/v1528287118/Jane_Goodall.jpg](https://media-exp1.licdn.com/dms/image/D4D16AQEYvj1cRL7N2w/profile-displaybackgroundimage-shrink_350_1400/0/1667666391766?e=1672876800&v=beta&t=Fw-y6hDqttWvvupN3yTKBFMQQ96JJeEqkpzRahP1z6g)" alt="Swimmer">
+ <img class="image" src="https://res.cloudinary.com/sharonnt/image/upload/v1528287118/Jane_Goodall.jpg](https://media-exp1.licdn.com/dms/image/D4D16AQEYvj1cRL7N2w/profile-displaybackgroundimage-shrink_350_1400/0/1667666391766?e=1672876800&v=beta&t=Fw-y6hDqttWvvupN3yTKBFMQQ96JJeEqkpzRahP1z6g" alt="Swimmer">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alambinary01&label=Profile%20views&color=0e75b6&style=flat" alt="alambinary01" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alambinary01" alt="alambinary01" /></a> </p>
 
