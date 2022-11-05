@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haseeb Mushtaq</h1>
-<h3 align="center">A passionate Web developer from Pakistan</h3>
+<h3 align="center"> Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alambinary01&label=Profile%20views&color=0e75b6&style=flat" alt="alambinary01" /> </p>
 
