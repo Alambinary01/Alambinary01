@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haseeb Mushtaq</h1>
 <h3 align="center"> Web developer</h3>
-
+<a href="https://visitorbadge.io/status?path=github.com%2FAlamBinary01"><img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FAlamBinary01&label=Visitors&countColor=%23263759" /></a>
 <p align=""> <img src="https://komarev.com/ghpvc/?username=alambinary01&label=Profile%20views&color=0e75b6&style=flat" alt="alambinary01" /> </p>
 <a href="https://wakatime.com/@447408eb-7344-4ae3-b831-801af67e28e0"><img src="https://wakatime.com/badge/user/447408eb-7344-4ae3-b831-801af67e28e0.svg" alt="Total time coded since Nov 23 2022" /></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alambinary01" alt="alambinary01" /></a> </p>
