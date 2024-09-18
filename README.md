@@ -3,11 +3,9 @@
 <p align=""> <img src="https://komarev.com/ghpvc/?username=alambinary01&label=Profile%20views&color=0e75b6&style=flat" alt="alambinary01" /> </p>
 <a href="https://wakatime.com/@447408eb-7344-4ae3-b831-801af67e28e0"><img src="https://wakatime.com/badge/user/447408eb-7344-4ae3-b831-801af67e28e0.svg" alt="Total time coded since Nov 23 2022" /></a>
 
-- 🔭 I’m currently working on **ZenFilter Extension and Application**
+- 🌱 I’m currently learning **Laravel**
 
-- 🌱 I’m currently learning **Dart**
-
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Laravel Projects**
 
 - 💬 Ask me about **Backend Development**
 
